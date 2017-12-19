@@ -14,8 +14,8 @@ We would like to make the parking easier by automatically detecting the license 
 
 * First Step: We used SVM to train the model
 * Second Step: We used connected region method to extract and segment the LP
-* Third Step: We used the trained model to recognize the character 
-* Fourth Step: We registered or delisted the LP into a csv file.
+* Third Step: We used the trained model to recognize characters
+* Fourth Step: We registered or delisted the estimated LP into a csv file
 
 ## Evaluation
 
