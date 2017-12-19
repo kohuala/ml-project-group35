@@ -8,7 +8,7 @@ Machine Learning Project by Group35:
 
 ## Project Aim and Problem Fumulation
 
-We would like to make the parking easier by automatically detect the license plates instead of the usage of physical ticket when car entering or exiting the parking lot.
+We would like to make the parking easier by automatically detecting the license plates instead of distributing physical tickets when car entering or exiting the parking lot.
 
 ## Technology Overview
 
