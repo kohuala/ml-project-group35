@@ -8,7 +8,9 @@ Machine Learning Project by Group35:
 
 ## Project Aim and Problem Fumulation
 
-We would like to make the parking easier by automatically detecting the license plates instead of distributing physical tickets when cars enter or exit the parking lot.
+For our project, we will focus on implementing a sign-in system in a parking lot. We would like to make the parking easier by automatically detecting the license plates instead of distributing physical tickets when cars enter or exit the parking lot. Other features such as number of passengers, colour of the vehicle, etc. can be derived from an image sequence or a video sequence of the vehicles at the checkin gate set at license plate level and pointing perpendicular to the plate to minimize skew.
+To implement this design, we first must build a dataset with the appropriate characters. For the English letters, we can use the Char74k dataset. This famous dataset contains an assortment of images of 0-9 and A-Z and can be conveniently found at the following link http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/.
+
 
 ## Technology Overview
 
