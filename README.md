@@ -20,3 +20,10 @@ We would like to make the parking easier by automatically detecting the license 
 ## Evaluation
 
 To be continued
+
+## Reference
+* http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
+* https://matthewearl.github.io/2016/05/06/cnn-anpr/
+* https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721
+* https://github.com/andela-foladeji/License-Plate-Recognition-Nigerian-vehicles
+
